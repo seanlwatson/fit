@@ -16,7 +16,7 @@ Here are the Fit Files for Download and instructions below to install and run on
     pip3 install click==6.6 requests==2.10.0 selenium==2.53.6 requests-toolbelt==0.7.0
 
 ### Clone repository into home directory:
-    git clone https://github.com/gahlberg/fit.git
+    git clone https://github.com/seanlwatson/fit
 
 ### To make repeatFit.py and repeatFitMalware.py executable without specifying python (./repeatFit.py), perform the following:
     [host]$ chmod 700 repeatFit.py 
